@@ -1,0 +1,16 @@
+# Temporary download files
+yt_audio_temp.webm
+yt_video_temp.mp4
+yt_audio_aac.m4a
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
